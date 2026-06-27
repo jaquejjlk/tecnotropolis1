@@ -1,8 +1,13 @@
-# Instalar Angular
+## Confira Node.js
+node -v
+npm -v
+npx -v
+
+## Instalar Angular
 npm install -g @angular/cli
 
 ## Para atualizar as dependências
-npx npm install
+pnpm install
 
 ## Entrar na pasta do projeto
 cd 
